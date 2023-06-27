@@ -1,5 +1,5 @@
 ---
-author: H TECH
+author: Cho-Nan Tsai
 title: "Film"
 date: 2023-06-23T10:27:57-07:00
 draft: false
@@ -9,6 +9,7 @@ featured_image: ../assets/images/featured/film.png
 ---
 
 ## Success Story: The Impact of AI in the Film Industry ##
+###### _By Cho-Nan Tsai_ ######
 
 The film industry has witnessed a transformative impact through the integration of artificial intelligence (AI) technologies. One notable success story involves Studio S, a leading film production company based in Culver City, which embraced AI to streamline various aspects of their filmmaking process and enhance audience experiences.
 

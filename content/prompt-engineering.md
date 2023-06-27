@@ -1,10 +1,12 @@
 ---
-author: H TECH
 title: "Prompt Engineering"
 date: 2023-06-23T13:13:16-07:00
 draft: false
 language: en
 description: Prompt engineering
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## Projects we do ##

@@ -5,6 +5,9 @@ draft: false
 language: en
 description: About Us
 featured_image: ../assets/images/featured/tron-city-eve.png
+sitemap:
+  changefreq: weekly
+  priority: 0.8
 ---
 
 ## H Tech VIP is a boutique consulting firm that is AI agile ##
@@ -21,4 +24,4 @@ At the end of the day, we listen to our clients about their business issues and 
 
 ## How we're different ##
 
-At H Tech, we believe that the most impactful AI research is akin to big science. Instead of scattering our efforts across numerous small-scale projects, we operate as a unified team focused on a select few large-scale research endeavors. Our primary focus is on achieving long-term goals related to steerable and trustworthy AI, prioritizing impactful outcomes over solving smaller, isolated puzzles. We approach AI consulting as an empirical science, drawing parallels to the methodologies used in physics and biology, in addition to traditional computer science approaches. Collaboration is deeply ingrained in our culture, and we actively foster frequent research discussions to ensure we continually pursue high-impact work. Effective communication skills are highly valued within our organization as we recognize their importance in our collective success.
+At H Tech VIP, we believe that the most impactful AI research is akin to big science. Instead of scattering our efforts across numerous small-scale projects, we operate as a unified team focused on a select few large-scale research endeavors. Our primary focus is on achieving long-term goals related to steerable and trustworthy AI, prioritizing impactful outcomes over solving smaller, isolated puzzles. We approach AI consulting as an empirical science, drawing parallels to the methodologies used in physics and biology, in addition to traditional computer science approaches. Collaboration is deeply ingrained in our culture, and we actively foster frequent research discussions to ensure we continually pursue high-impact work. Effective communication skills are highly valued within our organization as we recognize their importance in our collective success.

@@ -1,5 +1,5 @@
 baseURL: ''
-title: H TECH VIP
+title: H Tech VIP
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -58,8 +58,7 @@ params:
   p5:
     heading: "Stay Up to Date"
     content:
-      - text: "If you have a project in mind, off the rails, or are simply curious about our capabilities, book time to speak with us."
-      - text: "No slides. No sales pitch. We prefer to listen. Let's start a conversation about working together to achieve something amazing."
+      - text: "Get all the latest AI insights directly into your inbox."
     action: "#"
     label: "Email address"
     placeholder: "Enter your email"
@@ -85,11 +84,11 @@ menu:
     - identifier: services
       pre: dropdown
       name: Services
-      weight: 10
+      weight: 20
     - identifier: industries
       pre: dropdown
       name: Industries
-      weight: 20
+      weight: 10
     - identifier: about
       name: About
       url: /about/
@@ -106,6 +105,10 @@ menu:
     - identifier: generativeai
       name: Generative AI
       url: /generative-ai/
+      weight: 10
+    - identifier: llm
+      name: LLM
+      url: /llm/
       weight: 10
     - identifier: promptengineering
       name: Prompt Engineering

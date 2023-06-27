@@ -1,10 +1,12 @@
 ---
-author: H TECH
 title: "Part-Time Chief AI Officer"
 date: 2023-06-26T14:00:26-07:00
 draft: false
 language: en
 description: Part-Time Chief AI Officer
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## Primary Roles of a CAIO ##

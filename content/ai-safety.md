@@ -1,10 +1,12 @@
 ---
-author: H TECH
 title: "AI Safety"
 date: 2023-06-23T12:30:19-07:00
 draft: false
 language: en
 description: About AI safety
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## What is AI Safety? ##

@@ -1,10 +1,12 @@
 ---
-author: H TECH
 title: "Machine Underwriting"
 date: 2023-06-23T10:04:18-07:00
 draft: false
 language: en
 description: write description for the page
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## Projects we do ##

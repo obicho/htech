@@ -1,10 +1,12 @@
 ---
-author: H TECH
 title: "Sentiment Analysis"
 date: 2023-06-23T10:07:53-07:00
 draft: false
 language: en
 description: Sentiment analysis
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## What is sentiment analysis? ##

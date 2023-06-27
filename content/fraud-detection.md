@@ -1,10 +1,12 @@
 ---
-author: H TECH
 title: "Fraud Detection"
 date: 2023-06-23T10:03:53-07:00
 draft: false
 language: en
-description: write description for the page
+description: Fraud Detection
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## Projects we do ##

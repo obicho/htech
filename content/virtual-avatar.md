@@ -1,10 +1,12 @@
 ---
-author: H TECH
 title: "Virtual Avatar"
 date: 2023-06-23T10:05:18-07:00
 draft: false
 language: en
 description: Virtual Avatar
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## What is a virtual avatar? ##

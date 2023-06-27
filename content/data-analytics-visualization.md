@@ -1,10 +1,12 @@
 ---
-author: H TECH
 title: "Data Analytics & data visualization"
 date: 2023-06-23T10:06:35-07:00
 draft: false
 language: en
-description: write description for the page
+description: Data Analytics & data visualization
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## Highlights from past projects ##

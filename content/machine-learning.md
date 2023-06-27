@@ -4,6 +4,9 @@ date: 2023-06-23T09:42:45-07:00
 draft: false
 language: en
 description: Machine Learning
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## Machine learning in a nutshell ##

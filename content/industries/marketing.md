@@ -1,5 +1,5 @@
 ---
-author: H TECH
+author: David Holsmithy
 title: "Marketing"
 date: 2023-06-23T10:26:18-07:00
 draft: false
@@ -9,6 +9,7 @@ featured_image: ../assets/images/featured/marketing.png
 ---
 
 ## Success Story: Transforming a Traditional Marketing Firm into a Digital Agency with AI ##
+###### _By David Holsmithy, Katherine McKinney and Brandy Shah_ ######
 
 Company X was a well-established traditional marketing firm that primarily relied on traditional advertising channels such as print media and television commercials. Recognizing the need to adapt to the digital age, they embarked on a transformation journey to become a cutting-edge digital agency with the help of AI technology.
 

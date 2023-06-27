@@ -9,7 +9,7 @@ featured_image: ../assets/images/featured/skincare.jpg
 ---
 
 ## San Marino Beauty disrupts beauty industry with AI ##
-###### By John Hearst, Katherine McKinney and Brandy Shah ######
+###### _By John Hearst, Katherine McKinney and Brandy Shah_ ######
 
 San Marino Beauty, a thriving small and medium-sized business in the skincare and beauty industry, embraced the potential of generative AI technology to revolutionize their product development process. In the past, creating new skincare formulations was a time-consuming and costly endeavor that relied heavily on trial and error. However, San Marino Beauty sought to accelerate their innovation and provide personalized solutions to their customers. This Los Angeles-based B2B company found a great use for AI.
 

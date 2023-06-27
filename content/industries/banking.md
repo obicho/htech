@@ -1,16 +1,17 @@
 ---
-author: H TECH
+author: Cho-Nan Tsai
 title: "Banking"
 date: 2023-06-23T10:23:13-07:00
 draft: false
 language: en
-description: AI-powered Chatbot Revolutionizes Customer Service at Bank X
+description: AI-powered Chatbot Revolutionizes Customer Service at CX Bank
 featured_image: ../assets/images/featured/banking.png
 ---
 
-## Success Story: AI-powered Chatbot Revolutionizes Customer Service at Bank X ##
+## Success Story: AI-powered Chatbot Revolutionizes Customer Service at CX, an Asia-focus consumer bank ##
+###### _By Cho-Nan Tsai_ ######
 
-Bank X, a leading financial institution, implemented an AI-powered chatbot to revolutionize its customer service experience. The chatbot, equipped with natural language processing and machine learning capabilities, was designed to handle customer inquiries, provide personalized assistance, and streamline banking processes.
+CX Bank, a leading financial institution, implemented an AI-powered chatbot to revolutionize its customer service experience. The chatbot, equipped with natural language processing and machine learning capabilities, was designed to handle customer inquiries, provide personalized assistance, and streamline banking processes.
 
 The Results:
 
@@ -24,4 +25,4 @@ The Results:
 
 5. Continuous Learning and Improvement: The AI-powered chatbot continuously learned from customer interactions. It used machine learning techniques to analyze user feedback, identify areas for improvement, and refine its responses. Over time, the chatbot became increasingly accurate, personalized, and capable of handling more complex inquiries.
 
-Bank X's AI-powered chatbot transformed its customer service landscape, providing enhanced experiences, efficient support, seamless onboarding, proactive financial insights, and continuous learning. The successful implementation of AI in customer service not only improved customer satisfaction but also reduced operational costs and positioned the bank as a leader in digital banking innovation.
+CX Bank's AI-powered chatbot transformed its customer service landscape, providing enhanced experiences, efficient support, seamless onboarding, proactive financial insights, and continuous learning. The successful implementation of AI in customer service not only improved customer satisfaction but also reduced operational costs and positioned the bank as a leader in digital banking innovation.

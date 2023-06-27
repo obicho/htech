@@ -1,10 +1,12 @@
 ---
-author: H TECH
 title: "Speech Recognition & Synthesis"
 date: 2023-06-23T10:04:51-07:00
 draft: false
 language: en
 description: Speech Recognition & Synthesis
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## Sample past projects in speech recognition ##

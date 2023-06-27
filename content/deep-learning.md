@@ -1,10 +1,12 @@
 ---
-author: H TECH
 title: "Deep Learning"
 date: 2023-06-23T09:59:40-07:00
 draft: false
 language: en
-description: write description for the page
+description: Deep learning
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## Deep learning in a nutshell ##

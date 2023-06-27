@@ -1,10 +1,12 @@
 ---
-author: H TECH
 title: "Natural Language Processing (NLP)"
 date: 2023-06-23T09:59:58-07:00
 draft: false
 language: en
 description: NLP
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## What is natural language processing? ##

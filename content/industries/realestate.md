@@ -1,5 +1,5 @@
 ---
-author: H TECH
+author: John Hearst
 title: "Real Estate"
 date: 2023-06-23T10:24:14-07:00
 draft: false
@@ -9,6 +9,7 @@ featured_image: ../assets/images/featured/home.png
 ---
 
 ## Success Story: AI-powered Property Valuation and Investment Analysis ##
+###### _By John Hearst, Katherine McKinney and Brandy Shah_ ######
 
 ### Company: Florida-based Real Estate Agency ###
 

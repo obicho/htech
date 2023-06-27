@@ -1,5 +1,5 @@
 ---
-author: H TECH
+author: David Holsmithy
 title: "E-commerce"
 date: 2023-06-23T10:22:52-07:00
 draft: false
@@ -9,12 +9,13 @@ featured_image: ../assets/images/featured/ecomm.png
 ---
 
 ## Success Story: Personalized Recommendations at Scale ##
+###### _By David Holsmithy, Katherine McKinney and Brandy Shah_ ######
 
-### Company: Nevada-based Online Retail ###
+### Company: Restoniq Online Retail ###
 
-__Challenge:__ Nevada-based Online Retail, a leading e-commerce platform based in Nevada, faced the challenge of providing personalized product recommendations to its millions of customers. With a vast product inventory and diverse customer preferences, manually curating recommendations was time-consuming and often resulted in irrelevant suggestions. The company needed an AI-powered solution to deliver personalized recommendations at scale, enhancing customer engagement and driving sales.
+__Challenge:__ Restoniq, a leading e-commerce platform based in Nevada, faced the challenge of providing personalized product recommendations to its millions of customers. With a vast product inventory and diverse customer preferences, manually curating recommendations was time-consuming and often resulted in irrelevant suggestions. The company needed an AI-powered solution to deliver personalized recommendations at scale, enhancing customer engagement and driving sales.
 
-__AI Solution:__ Nevada-based Online Retail implemented an advanced AI-powered recommendation system driven by machine learning algorithms. The system analyzed customer browsing behavior, purchase history, and product attributes to generate real-time personalized recommendations. By leveraging machine learning models, the system identified patterns, correlations, and similarities in customer data, allowing it to understand individual preferences and predict their interests accurately.
+__AI Solution:__ Restoniq implemented an advanced AI-powered recommendation system driven by machine learning algorithms. The system analyzed customer browsing behavior, purchase history, and product attributes to generate real-time personalized recommendations. By leveraging machine learning models, the system identified patterns, correlations, and similarities in customer data, allowing it to understand individual preferences and predict their interests accurately.
 
 __Impact:__ The implementation of AI-powered personalized recommendations brought significant benefits to Nevada-based Online Retail:
 

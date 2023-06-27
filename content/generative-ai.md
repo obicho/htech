@@ -4,6 +4,9 @@ date: 2023-06-23T09:55:45-07:00
 description: "Generative AI in simple terms and what it can do for a business"
 draft: false
 language: en
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## Generative AI explained ##

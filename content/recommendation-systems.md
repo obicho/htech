@@ -1,10 +1,12 @@
 ---
-author: H TECH
 title: "Recommendation Systems"
 date: 2023-06-23T10:03:45-07:00
 draft: false
 language: en
 description: Recommendation systems
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## What is an AI recommendation system? ##

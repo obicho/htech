@@ -1,10 +1,12 @@
 ---
-author: H TECH
 title: "Computer Vision"
 date: 2023-06-23T10:05:04-07:00
 draft: false
 language: en
-description: write description for the page
+description: Computer vision
+sitemap:
+  changefreq: weekly
+  priority: 1.0
 ---
 
 ## What is computer vision? ##

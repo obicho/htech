@@ -1,5 +1,5 @@
 ---
-author: H TECH
+author: Cho-Nan Tsai
 title: "Lending"
 date: 2023-06-23T10:21:26-07:00
 draft: false
@@ -9,6 +9,7 @@ featured_image: ../assets/images/featured/lender.png
 ---
 
 ## Success Story: AI-driven Loan Underwriting ##
+###### _By Cho-Nan Tsai_ ######
 
 A leading lending institution faced challenges in efficiently and accurately evaluating loan applications. The traditional manual underwriting process was time-consuming and prone to human error, resulting in delays and increased operational costs. They sought a solution to streamline their lending process while maintaining robust risk assessment.
 

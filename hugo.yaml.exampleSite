@@ -12,7 +12,7 @@ darkmode_js:
 enableInlineShortcodes: true
 
 params:
-  author: H Tech
+  author: H Tech VIP
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "Super Fast, and Flexible"
