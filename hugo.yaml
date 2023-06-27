@@ -251,7 +251,7 @@ privacy:
     enableDNT: false
     simple: false
   youtube:
-    disable: true
+    disable: false
     privacyEnhanced: true
 
 module:
