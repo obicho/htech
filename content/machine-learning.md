@@ -3,8 +3,7 @@ title: "Machine Learning"
 date: 2023-06-23T09:42:45-07:00
 draft: false
 language: en
-description: Machine Learning 
-featured_image: ../assets/images/featured/featured-img-placeholder.png
+description: Machine Learning
 ---
 
 ## Machine learning in a nutshell ##

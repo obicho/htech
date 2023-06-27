@@ -5,6 +5,7 @@ date: 2023-06-23T10:26:18-07:00
 draft: false
 language: en
 description: Transforming a Traditional Marketing Firm into a Digital Agency with AI
+featured_image: ../assets/images/featured/marketing.png
 ---
 
 ## Success Story: Transforming a Traditional Marketing Firm into a Digital Agency with AI ##
