@@ -18,7 +18,7 @@ params:
   moto: "Reimagine a future where your business leads your industry with AI"
   description: "Don't become obsolete. Transform your business with true artifical intelligence technologies. Our agile approach brings results quickly."
   title_desc: "AI Consulting"
-  disable_theme_toggle: false
+  disable_theme_toggle: true
   disable_stay_uptodate: false
 
   p1:
@@ -49,7 +49,7 @@ params:
         image: "images/global/aws.svg"
         alt: "Amazon Web Services logo"
       - identifier: openai
-        image: "images/global/openai-wordmark.svg"
+        image: "images/global/openai.svg"
         alt: "OpenAI logo"
   p4:
     heading: "Insights on AI and data"
@@ -64,19 +64,19 @@ params:
     placeholder: "Enter your email"
     button: "Send"
 
-  social_media:
-    github:
-      enabled: false
-      url: 'https://github.com/nusserstudios'
-    facebook:
-      enabled: false
-      url: 'https://facebook.com/nusserstudios'
-    instagram:
-      enabled: false
-      url: 'https://instagram.com/nusserstudios'
-    twitter:
-      enabled: false
-      url: '@nusserstudios'
+  # social_media:
+  #   github:
+  #     enabled: false
+  #     url: 'https://github.com/nusserstudios'
+  #   facebook:
+  #     enabled: false
+  #     url: 'https://facebook.com/nusserstudios'
+  #   instagram:
+  #     enabled: false
+  #     url: 'https://instagram.com/nusserstudios'
+  #   twitter:
+  #     enabled: false
+  #     url: '@nusserstudios'
     
 
 menu:
