@@ -4,7 +4,7 @@ title: "Sentiment Analysis"
 date: 2023-06-23T10:07:53-07:00
 draft: false
 language: en
-description: write description for the page
+description: Sentiment analysis
 ---
 
 ## What is sentiment analysis? ##

@@ -4,7 +4,7 @@ title: "Prompt Engineering"
 date: 2023-06-23T13:13:16-07:00
 draft: false
 language: en
-description: What we do for prompt engineering
+description: Prompt engineering
 ---
 
 ## Projects we do ##

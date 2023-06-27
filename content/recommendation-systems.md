@@ -4,7 +4,7 @@ title: "Recommendation Systems"
 date: 2023-06-23T10:03:45-07:00
 draft: false
 language: en
-description: write description for the page
+description: Recommendation systems
 ---
 
 ## What is an AI recommendation system? ##

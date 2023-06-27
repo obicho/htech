@@ -4,7 +4,7 @@ title: "Virtual Avatar"
 date: 2023-06-23T10:05:18-07:00
 draft: false
 language: en
-description: write description for the page
+description: Virtual Avatar
 ---
 
 ## What is a virtual avatar? ##

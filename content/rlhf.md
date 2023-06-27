@@ -4,7 +4,7 @@ title: "Reinforcement Learning from Human Feedback (RLHF)"
 date: 2023-06-23T11:07:26-07:00
 draft: false
 language: en
-description: This page explains what is Reinforcement Learning from Human Feedback and how H Tech helps a client in this area
+description: RLHF
 ---
 
 ## Reinforcement Learning from Human Feedback (RLHF) ##

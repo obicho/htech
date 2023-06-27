@@ -5,7 +5,6 @@ date: 2023-06-23T12:30:19-07:00
 draft: false
 language: en
 description: About AI safety
-tags: news
 ---
 
 ## What is AI Safety? ##

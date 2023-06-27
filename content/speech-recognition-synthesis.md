@@ -4,7 +4,7 @@ title: "Speech Recognition & Synthesis"
 date: 2023-06-23T10:04:51-07:00
 draft: false
 language: en
-description: write description for the page
+description: Speech Recognition & Synthesis
 ---
 
 ## Sample past projects in speech recognition ##

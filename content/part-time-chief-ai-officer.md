@@ -4,7 +4,7 @@ title: "Part-Time Chief AI Officer"
 date: 2023-06-26T14:00:26-07:00
 draft: false
 language: en
-description: write description for the page
+description: Part-Time Chief AI Officer
 ---
 
 ## Primary Roles of a CAIO ##

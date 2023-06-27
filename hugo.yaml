@@ -14,9 +14,10 @@ enableInlineShortcodes: true
 params:
   author: H Tech VIP
   authorimage: ../assets/images/global/htechlogo.svg
-  og_image: /images/tailbliss-cover.png
+  og_image: /images/htechvip-cover.png
   moto: "Reimagine a future where your business leads your industry with AI"
   description: "Don't become obsolete. Transform your business with true artifical intelligence technologies. Our agile approach brings results quickly."
+  title_desc: "AI Consulting"
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
