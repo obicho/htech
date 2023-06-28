@@ -22,7 +22,5 @@ Instead of tackling all the issues at once, Elonen, IBM, and Houston Analytics a
 
 By working together, Elonen, IBM, and Houston Analytics aimed to automate and streamline this particular step in the packaging process. This approach allowed Elonen to gradually improve efficiency and competitiveness while leveraging the data they had collected.
 
-Unfortunately, the provided summary is based on the information available up until September 2021, and I do not have access to any updates or developments regarding Elonen Oy beyond that point.
-
 For more in-depth analysis, please review IBM's original [article](https://www.ibm.com/case-studies/elonen-oy).
 
