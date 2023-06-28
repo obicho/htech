@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: 'https://www.htech.vip/'
 title: H Tech VIP
 languageCode: en-us
 DefaultContentLanguage: en
@@ -260,3 +260,8 @@ module:
     min: "0.104.0"
   imports:
     - path: "github.com/gohugoio/hugo-mod-jslibs-dist/alpinejs/v3"
+
+sitemap:
+  changefreq: always
+  filename: sitemap.xml
+  priority: 0.5
