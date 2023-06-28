@@ -209,9 +209,9 @@ menu:
     #   name: Blog
     #   url: /categories/blog/
     #   weight: 20
-    - identifier: news
-      name: News
-      url: /categories/news/
+    - identifier: insights
+      name: Insights
+      url: /tags/insights/
       weight: 30
     # - identifier: prose
     #   name: Prose

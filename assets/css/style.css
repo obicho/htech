@@ -1128,10 +1128,6 @@ video {
   margin-bottom: 1rem;
 }
 
-.mb-6 {
-  margin-bottom: 1.5rem;
-}
-
 .mb-8 {
   margin-bottom: 2rem;
 }
@@ -1220,10 +1216,6 @@ video {
   height: 1.5rem;
 }
 
-.h-9 {
-  height: 2.25rem;
-}
-
 .h-auto {
   height: auto;
 }
@@ -1258,10 +1250,6 @@ video {
 
 .w-6 {
   width: 1.5rem;
-}
-
-.w-9 {
-  width: 2.25rem;
 }
 
 .w-full {
@@ -1793,10 +1781,6 @@ video {
   font-weight: 500;
 }
 
-.font-normal {
-  font-weight: 400;
-}
-
 .font-semibold {
   font-weight: 600;
 }
@@ -1978,12 +1962,6 @@ video {
 
 .transition-colors {
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-duration: 150ms;
-}
-
-.transition-opacity {
-  transition-property: opacity;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 150ms;
 }
@@ -2211,14 +2189,6 @@ EmojiSymbols;
 
 .group:hover .group-hover\:text-gray-400\/60 {
   color: rgb(156 163 175 / 0.6);
-}
-
-.group:hover .group-hover\:opacity-50 {
-  opacity: 0.5;
-}
-
-.group:focus .group-focus\:opacity-70 {
-  opacity: 0.7;
 }
 
 :is(.dark .dark\:border-gray-600) {
@@ -2666,11 +2636,6 @@ EmojiSymbols;
     top: 3rem;
   }
 
-  .lg\:mx-0 {
-    margin-left: 0px;
-    margin-right: 0px;
-  }
-
   .lg\:mx-auto {
     margin-left: auto;
     margin-right: auto;
@@ -2806,10 +2771,6 @@ EmojiSymbols;
 }
 
 @media (min-width: 1280px) {
-  .xl\:mb-2 {
-    margin-bottom: 0.5rem;
-  }
-
   .xl\:inline {
     display: inline;
   }
@@ -2826,11 +2787,6 @@ EmojiSymbols;
 
   .xl\:text-lg {
     font-size: 1.125rem;
-    line-height: 1.75rem;
-  }
-
-  .xl\:text-xl {
-    font-size: 1.25rem;
     line-height: 1.75rem;
   }
 }

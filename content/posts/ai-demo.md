@@ -1,16 +1,18 @@
 ---
-author: Cho-Nan Tsai
-title: "AI Demo"
+author: Mike Sulley
+title: "Using AI supercharge your organizations in hours, not days."
 date: 2023-06-27T11:47:25-07:00
 draft: false
 language: en
 description: Using AI tools
-featured_image: ../assets/images/featured/featured-img-placeholder.png
+featured_image: ../assets/images/featured/fc2023.jpeg
+tags: insights
 ---
 
-## A quick showcase of various AI tools ##
+## A showcase of various AI tools ##
+###### _By Mike Sulley_ ######
 
-In preparation for an attending an AI Conference, we put together a quick demo featuring some of the AI tools available in the market today.
+In preparation for an attending an AI Conference, we put together a quick demo featuring some of the AI tools available in the market today. We built prototypes that can be used for sales initiatives, marketing planning and more.
 
 {{< youtube A3ADJOJbjqA >}}
 

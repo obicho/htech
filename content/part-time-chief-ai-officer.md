@@ -1,6 +1,6 @@
 ---
 title: "Part-Time Chief AI Officer"
-date: 2023-06-26T14:00:26-07:00
+date: 2023-05-26T14:00:26-07:00
 draft: false
 language: en
 description: Part-Time Chief AI Officer
