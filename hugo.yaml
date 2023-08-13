@@ -5,6 +5,7 @@ DefaultContentLanguage: en
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
+enableEmoji: true
 canonifyURLs: true
 paginate: 9
 darkmode_js:
@@ -81,6 +82,10 @@ params:
 
 menu:
   main:
+    - identifier: products
+      pre: dropdown
+      name: Products
+      weight: 5
     - identifier: services
       pre: dropdown
       name: Services
@@ -97,6 +102,11 @@ menu:
       name: Contact
       url: /contact/
       weight: 50
+  products:
+    - identifier: vip-ai-chatbot
+      name: VIP AI Chatbot for WordPress
+      url: /vip-ai-chatbot/
+      weight: 5
   services:
     - identifier: part-time-chief-ai-officer
       name: Part-time Chief AI Officer
@@ -205,18 +215,18 @@ menu:
       name: About
       url: /about/
       weight: 10
-    # - identifier: blog
-    #   name: Blog
-    #   url: /categories/blog/
-    #   weight: 20
+    - identifier: privacy
+      name: Privacy Policy
+      url: /privacy/
+      weight: 20
     - identifier: insights
       name: Insights
       url: /tags/insights/
       weight: 30
-    # - identifier: prose
-    #   name: Prose
-    #   url: /prose/
-    #   weight: 40
+    - identifier: terms
+      name: Terms of service
+      url: /vip-ai-chatbot-terms-of-service/
+      weight: 40
     - identifier: contact
       name: Contact
       url: /contact/
