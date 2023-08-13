@@ -38,7 +38,7 @@ params:
       - text: "AWS, Google, OpenAI and Azure as technology partners are vital for businesses. They bring expertise, cutting-edge technologies, and scalable cloud infrastructure. With AI, machine learning, and big data analytics, businesses gain insights and automation. These partners offer robust security measures and access to global ecosystems. Partnering with them unlocks innovation and competitive advantage in the digital landscape."
     links:
       - text: See how help businesses leverage AI
-        url: "#"
+        url: "/tags/insights/"
     logos:
       - identifier: ms
         image: "images/global/ms.svg"
@@ -60,7 +60,7 @@ params:
     heading: "Stay Up to Date"
     content:
       - text: "Get all the latest AI insights directly into your inbox."
-    action: "#"
+    action: "https://forms.gle/9Qoe5Qt2oruPcwAAA"
     label: "Email address"
     placeholder: "Enter your email"
     button: "Send"
@@ -100,7 +100,7 @@ menu:
       weight: 30
     - identifier: contact
       name: Contact
-      url: /contact/
+      url: https://forms.gle/9Qoe5Qt2oruPcwAAA
       weight: 50
   products:
     - identifier: vip-ai-chatbot
@@ -229,7 +229,7 @@ menu:
       weight: 40
     - identifier: contact
       name: Contact
-      url: /contact/
+      url: https://forms.gle/9Qoe5Qt2oruPcwAAA
       weight: 50
 
 markup:

@@ -1,7 +1,7 @@
 ---
 author: Cho-Nan Tsai
 title: "Unlocking Insights: Exploring Public Real Estate Datasets"
-date: 2023-06-27T11:47:25-07:00
+date: 2023-08-12T11:47:25-07:00
 draft: false
 language: en
 description: Data means effective strategy
